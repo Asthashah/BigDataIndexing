@@ -1,6 +1,6 @@
-# BigData-Indexing
+# BigDataIndexing
 
-Project for Class Advance Big Data Application / Indexing
+Project for Class Advance Big Data Indexing
 
 # Technology Stack
 Spring Boot
